@@ -12,20 +12,20 @@ This is a template project for Android Studio that allows you to create an andro
 
 These are the basic settings of a good WEB APP with WebView
 
-######## Getting WebView Settings (**line 49**)
+* Getting WebView Settings (**line 49**)
 
-	```
+	```java
 	WebSettings webSettings = webView.getSettings();
 	```
   
-######## Enabling JavaScript (**line 52**)
+* Enabling JavaScript (**line 52**)
 
-	```
+	```java
 	webSettings.setJavaScriptEnabled(true);
 	```
   
-########. Disable Support Zoom (**line 55**)
+* Disable Support Zoom (**line 55**)
 
-	```
+	```java
 	webSettings.setSupportZoom(false);
 	```
