@@ -2,6 +2,10 @@
 
 This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
+[![alt tag](https://github.com/rony-freitas/webview/tree/master/docs/en-US.png)](https://github.com/rony-freitas/webview) | Documentation en-US
+
+[![alt tag](https://github.com/rony-freitas/webview/tree/master/docs/pt-BR.png)](docs/pt-BR.md) | Documentation pt-BR
+
 ## Getting started
 
 1. [Install Android Studio](http://developer.android.com/sdk/index.html), make sure that the [Android SDK Tools](http://developer.android.com/sdk/index.html#Other) are properly installed and install the [appropriate packages](http://developer.android.com/sdk/installing/adding-packages.html) for the platforms you want to target.
