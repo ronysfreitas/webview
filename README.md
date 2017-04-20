@@ -38,7 +38,7 @@ These are the basic settings of a good WEB APP with WebView:
 	webSettings.setJavaScriptEnabled(true);
 	```
   
-* Disable Support Zoom (**line 55**)
+* Disable Support Zoom (**recommendation**) (**line 55**)
 
 	```java
 	webSettings.setSupportZoom(false);
